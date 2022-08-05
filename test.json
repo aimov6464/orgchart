@@ -1,0 +1,13 @@
+{
+  "name": "Ian Devling",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jg",
+  "area": "Corporate",
+  "profileUrl": "http://example.com/employee/profile",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
+  "isLoggedUser": "false",
+  "positionName": "Chief Executive Officer",
+  "id": "O-6066",
+  "parentId": "",
+  "size": ""
+}
